@@ -1,5 +1,3 @@
-# Assignment-1-Tutedude-
-Task 1: Perform Basic Mathematical Operations
 # Take two numbers as input from the user
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
