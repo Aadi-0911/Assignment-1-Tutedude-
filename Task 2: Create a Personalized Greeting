@@ -1,0 +1,11 @@
+# Take user's first name as input
+first_name = input("Enter your first name: ")
+
+# Take user's last name as input
+last_name = input("Enter your last name: ")
+
+# Combine first and last name into full name
+full_name = first_name + " " + last_name
+
+# Print personalized greeting
+print(f"Hello, {full_name}! Welcome to the Python program.")
